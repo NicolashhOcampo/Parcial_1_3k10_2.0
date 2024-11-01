@@ -59,17 +59,5 @@ public class AdnServiceImpl extends BaseServiceImpl<Adn, Long> implements AdnSer
     }
 
 
-    /*
-    @Override
-    public Object[] countMutantsAndHumans() {
-        try{
-            return adnRepository.count();
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
-    }
-
-     */
-
 
 }
